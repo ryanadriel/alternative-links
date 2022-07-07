@@ -21,6 +21,8 @@ html {
 body.dark {
   --bg-color: #00082f;
   --text-color: #ffffff;
+  --base-color: #0a44af;
+  --base-color-secondary: #5549ff;
 }
 
 body.pink {
